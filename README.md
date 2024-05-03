@@ -1,1 +1,1 @@
-# This is my university Online Contest - UIT WECODE
+# This is my University Online Contest - UIT WECODE
