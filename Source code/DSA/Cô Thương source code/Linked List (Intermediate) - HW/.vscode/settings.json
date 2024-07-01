@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "cstring": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "map": "cpp"
+    }
+}
