@@ -1,0 +1,568 @@
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+[20520377,  Pham Minh Hung  , 1, 2004, 8.7] 
+
+
+
+
+
+
+[20520384,  Vo Trung Hung  , 1, 2002, 8.5] 
+
+
+
+
+
+
+[20520391,  Tran Nguyen Khanh  , 1, 2003, 6.3] 
+
+
+
+
+
+[20520397,  Tran Viet Hung  , 1, 2003, 9.6] 
+
+
+
+
+
+
+
+
+[20520406,  Nguyen Thanh Lam  , 1, 2002, 5.8] 
+
+
+
+
+
+
+
+
+[20520415,  Tran Che Linh  , 1, 2004, 6] 
+
+
+
+
+
+
+[20520422,  Nguyen Thanh Lam  , 0, 2003, 6.5] 
+
+
+
+
+
+[20520428,  Tran Duy Khuong  , 1, 2004, 9.1] 
+
+
+
+
+
+
+[20520435,  Hoang Linh  , 1, 2004, 5.2] 
+
+
+
+
+
+
+
+[20520443,  Do Tien Manh  , 1, 2004, 5.3] 
+
+
+
+
+
+
+
+[20520451,  Nguyen Thang Long  , 1, 2004, 7.7] 
+
+
+
+
+
+
+
+[20520459,  Vo Tran Nhat Minh  , 1, 2004, 6.6] 
+
+
+
+
+
+
+
+
+[20520468,  Do Ha Loc  , 1, 2003, 8.4] 
+
+
+
+
+
+
+
+[20520476,  Nguyen Thanh Luan  , 1, 2003, 9.2] 
+
+
+
+
+
+
+
+[20520484,  Tran Ho Phuong Nam  , 1, 2003, 7.1] 
+
+
+
+
+
+
+[20520491,  Dinh Van Nam  , 1, 2003, 6.2] 
+
+
+
+
+
+[20520497,  Le Hoai Nam  , 1, 2002, 8.3] 
+
+
+[20520001,  Nguyen The Nhu Quynh  , 0, 2004, 8.2] 
+
+[20520003,  Dinh Van Phuong  , 1, 2003, 5.4] 
+[20520503,  Nguyen Huynh Hai Nam  , 1, 2003, 5.6] 
+[20520005,  Nguyen Echam Samuel  , 1, 2004, 8.5] 
+
+[20520007,  Nguyen Xuan Sang  , 1, 2004, 8.2] 
+
+[20520009,  Le Phu Quy  , 1, 2004, 6.2] 
+
+[20520011,  Ly Quoc Quyen  , 1, 2004, 7.5] 
+[20520012,  Bui Minh Quan  , 1, 2002, 8.7] [20520511,  Pham Anh Vu Nguyen  , 1, 2004, 8.3] 
+
+
+
+
+[20520017,  Vo Hoang Phuong  , 1, 2004, 7.7] [20520516,  Le Nhut Nam  , 1, 2002, 5.5] 
+
+
+
+
+[20520022,  Truong Trong Quan  , 1, 2004, 5.6] 
+
+
+
+
+
+[20520028,  Vu Hoang Hai Son  , 1, 2004, 5.7] 
+
+
+
+
+
+
+
+
+[20520037,  Le Quang  , 1, 2003, 9] 
+
+
+
+
+[20520042,  Phan Duc Son  , 1, 2002, 5.4] 
+
+
+
+
+
+
+
+[20520050,  Nguyen Ngoc Phuong  , 1, 2004, 7.3] 
+
+
+
+
+
+
+
+
+[20520059,  Luu Nguyen Quoc Son  , 1, 2004, 7.2] 
+
+
+
+
+
+
+
+[20520067,  Tran Van Tai  , 1, 2003, 6.4] 
+
+
+
+
+
+
+[20520074,  Huynh Le Tan Tai  , 1, 2004, 8.2] 
+
+
+
+
+
+[20520080,  Vu Minh Thai  , 1, 2004, 8.1] 
+
+
+
+
+
+
+[20520087,  Tran Tat Thang  , 1, 2003, 8] 
+
+
+
+
+
+
+[20520094,  Diep Vuong Thang  , 1, 2004, 9.5] 
+
+
+
+
+
+
+
+[20520102,  Nguyen Van Thanh  , 1, 2003, 7] 
+
+
+
+
+
+
+
+
+[20520111,  Nguyen Denh Thi  , 1, 2002, 6.9] 
+
+
+
+
+
+[20520117,  Dao Van Thien  , 1, 2003, 9.7] 
+
+
+
+
+
+
+[20520124,  Pham Quang Thong  , 1, 2003, 9] 
+
+
+
+
+
+
+
+
+[20520133,  Nguyen Benh Khiem  , 1, 2002, 5.8] 
+
+
+
+
+
+
+
+
+[20520142,  Nguyen Hong Thong  , 1, 2004, 7.9] 
+
+
+
+
+
+
+[20520149,  Nguyen Quoc Thenh  , 1, 2003, 6.6] 
+
+
+
+
+
+
+
+[20520157,  Pham Huynh Duc Huy  , 1, 2002, 5.9] 
+
+
+
+
+
+
+[20520164,  Nguyen Khac Bao Anh  , 0, 2004, 7.9] 
+
+
+
+
+
+[20520170,  Nguyen Cong Chuc  , 1, 2002, 7.3] 
+
+
+
+
+
+[20520176,  Nguyen Minh An  , 1, 2003, 6.9] 
+
+
+
+
+
+
+[20520183,  Nguyen Le Phu An  , 1, 2004, 5.2] 
+
+
+
+
+
+
+[20520190,  Nguyen Thai Benh  , 1, 2002, 5] 
+
+
+
+
+
+
+
+[20520198,  Le Thai Benh  , 1, 2003, 6.6] 
+
+
+
+
+
+[20520204,  Le Van Minh Chau  , 0, 2004, 8] 
+
+
+
+
+
+[20520210,  Tran Duc Thenh  , 1, 2004, 8.9] 
+
+
+
+
+
+
+[20520217,  Do Hoang Chuong  , 1, 2003, 8.8] 
+
+
+
+
+
+
+
+
+[20520226,  Nguyen Kim Cuong  , 0, 2003, 7.9] 
+
+
+
+
+
+[20520232,  Nguyen Phu Cuong  , 1, 2004, 5.4] 
+
+
+
+
+
+
+[20520239,  Nguyen Minh Dat  , 1, 2003, 9.4] 
+
+
+
+
+
+[20520245,  Do Quang Dat  , 1, 2003, 8.1] 
+
+
+
+
+
+
+[20520252,  Tran Van Dat  , 1, 2003, 5.1] 
+
+
+
+
+
+[20520258,  Do Van Dung  , 1, 2003, 5.5] 
+
+
+
+
+
+
+[20520265,  Bui Tien Dung  , 1, 2004, 9.8] 
+
+
+
+
+
+
+
+
+
+[20520275,  Nguyen Tien Dung  , 1, 2004, 7.7] 
+
+
+
+
+
+
+
+[20520283,  Pham Van Han  , 1, 2002, 9.5] 
+
+
+
+
+
+[20520289,  Nguyen Hong Hai  , 1, 2004, 8.6] 
+
+
+
+
+
+
+[20520296,  Nguyen Van Hanh  , 1, 2004, 6.3] 
+
+
+
+
+
+
+
+
+
+[20520306,  Nguyen Hai Ha  , 1, 2003, 6] 
+
+
+
+
+
+
+[20520313,  Nguyen Ngoc Hien  , 1, 2002, 8.3] 
+
+
+
+
+
+
+[20520320,  Vo Tien Hoa  , 1, 2002, 5.7] 
+
+
+
+
+
+
+
+[20520328,  Nguyen The Hoa  , 1, 2003, 7.3] 
+
+
+
+
+
+[20520334,  Vu Van Hieu  , 1, 2002, 8.9] 
+
+
+
+
+
+
+
+[20520342,  Le An Hoa  , 1, 2002, 6.2] 
+
+
+
+
+
+
+
+[20520350,  Nguyen Thanh Huy  , 1, 2002, 7.1] 
+
+
+
+
+
+
+[20520357,  Le Duc Phuoc Hue  , 0, 2002, 7.3] 
+
+
+
+
+
+
+
+
+[20520366,  Truong Quoc Hung  , 1, 2003, 6.6] 
+
+
+
+
+
+
+
+
+[20520375,  Nguyen Minh Huy  , 1, 2003, 7.9] 
+

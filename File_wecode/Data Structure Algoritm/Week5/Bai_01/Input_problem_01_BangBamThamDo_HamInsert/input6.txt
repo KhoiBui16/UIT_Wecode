@@ -1,0 +1,2502 @@
+499
+500
+20520001
+Nguyen The Nhu Quynh
+2004
+0
+8.2
+20520002
+Le Hoang Quan
+2003
+1
+7.4
+20520003
+Dinh Van Phuong
+2003
+1
+5.4
+20520005
+Nguyen Echam Samuel
+2004
+1
+8.5
+20520007
+Nguyen Xuan Sang
+2004
+1
+8.2
+20520009
+Le Phu Quy
+2004
+1
+6.2
+20520011
+Ly Quoc Quyen
+2004
+1
+7.5
+20520012
+Bui Minh Quan
+2002
+1
+8.7
+20520013
+Nguyen Ngoc Son
+2003
+1
+9.7
+20520015
+Bui Duy Quy
+2003
+1
+7.5
+20520017
+Vo Hoang Phuong
+2004
+1
+7.7
+20520019
+Tran Minh Phuong
+2003
+0
+7.9
+20520020
+Phan Duy Quoc
+2004
+1
+9.3
+20520021
+Nguyen Vu Ngoc Quyen
+2002
+0
+6.2
+20520022
+Truong Trong Quan
+2004
+1
+5.6
+20520023
+Pham Minh Quan
+2002
+1
+7.9
+20520025
+Vo Thanh Sanh
+2002
+1
+6.1
+20520026
+Nguyen Minh Phuong
+2002
+0
+6.9
+20520027
+Nguyen Viet Son
+2003
+1
+6.5
+20520028
+Vu Hoang Hai Son
+2004
+1
+5.7
+20520030
+Nguyen Hai Son
+2002
+1
+9.2
+20520032
+Nguyen Vu Truong Son
+2003
+1
+5.5
+20520033
+Tran Minh Sang
+2003
+1
+7.8
+20520035
+Nguyen Trung Son
+2003
+1
+6.8
+20520037
+Le Quang
+2003
+1
+9.0
+20520038
+Vu The Phuong
+2003
+1
+9.4
+20520039
+Nguyen Van Son
+2003
+1
+8.7
+20520040
+Le Anh Son
+2004
+1
+8.5
+20520041
+Vo Tien Se
+2002
+1
+7.9
+20520042
+Phan Duc Son
+2002
+1
+5.4
+20520043
+Tran The Son
+2004
+1
+9.2
+20520045
+Vu Hong Tam
+2004
+0
+6.8
+20520047
+Nguyen Minh Tan
+2004
+1
+5.0
+20520048
+Le Ha Xuan Thai
+2002
+1
+6.1
+20520050
+Nguyen Ngoc Phuong
+2004
+1
+7.3
+20520052
+Bui Anh Tai
+2004
+1
+8.2
+20520053
+Duong Che Tam
+2003
+1
+6.9
+20520055
+Pham Thanh Quoc
+2003
+1
+9.2
+20520057
+Le Truong Sa
+2003
+1
+8.6
+20520059
+Luu Nguyen Quoc Son
+2004
+1
+7.2
+20520060
+Ngo Vu Sang
+2002
+1
+5.4
+20520062
+Le Cong Tai
+2002
+1
+6.0
+20520064
+Do Minh Tam
+2004
+0
+9.1
+20520066
+Tran The Minh Suong
+2002
+1
+8.4
+20520067
+Tran Van Tai
+2003
+1
+6.4
+20520069
+Le Van Tai
+2002
+1
+9.8
+20520070
+Vu The Hoai Son
+2002
+1
+9.8
+20520072
+Duong Thanh Tam
+2002
+0
+9.4
+20520073
+Ho Quoc Tai
+2004
+1
+8.8
+20520074
+Huynh Le Tan Tai
+2004
+1
+8.2
+20520075
+Huynh Huu Tam
+2004
+1
+7.0
+20520077
+Nguyen Anh Tan
+2004
+1
+9.6
+20520078
+Nguyen Ngoc Than
+2002
+1
+7.2
+20520079
+Doan Thanh Tan
+2002
+1
+9.7
+20520080
+Vu Minh Thai
+2004
+1
+8.1
+20520082
+Dang Xuan Thanh
+2002
+0
+7.3
+20520083
+Vu Van Thanh
+2004
+1
+9.0
+20520084
+Le Duy Thang
+2004
+1
+7.8
+20520086
+Ho Nguyen Xuan Thanh
+2004
+0
+6.0
+20520087
+Tran Tat Thang
+2003
+1
+8.0
+20520089
+Nguyen Che Thanh
+2004
+1
+8.7
+20520090
+Phan Xuan Thang
+2002
+1
+5.5
+20520091
+Bui Minh Thao
+2004
+0
+9.8
+20520093
+Dang Van Thang
+2004
+1
+6.6
+20520094
+Diep Vuong Thang
+2004
+1
+9.5
+20520095
+Dinh Xuan Thang
+2003
+1
+5.4
+20520097
+Lam Van Thanh
+2002
+1
+7.4
+20520099
+Nguyen Tien Thanh
+2003
+1
+8.6
+20520100
+Dam Van Thien
+2003
+1
+9.6
+20520102
+Nguyen Van Thanh
+2003
+1
+7.0
+20520104
+Vo Duc Thao
+2002
+1
+8.4
+20520106
+Bui Trung Thanh
+2002
+1
+6.7
+20520107
+Le Tan Thanh
+2002
+1
+7.4
+20520109
+Le Tien Thanh
+2003
+1
+9.2
+20520111
+Nguyen Denh Thi
+2002
+1
+6.9
+20520112
+Nguyen Cong Thanh
+2004
+1
+8.4
+20520114
+Luong Van Thao
+2004
+1
+5.8
+20520115
+Cao Ba Thanh
+2003
+1
+9.2
+20520116
+Nguyen Huu The
+2002
+1
+8.4
+20520117
+Dao Van Thien
+2003
+1
+9.7
+20520118
+Nguyen Van Thenh
+2002
+1
+8.7
+20520119
+Nguyen Duc Thong
+2003
+1
+5.3
+20520121
+Nguyen Le Truong Tho
+2002
+1
+9.4
+20520122
+Tran Minh Thong
+2004
+1
+9.9
+20520124
+Pham Quang Thong
+2003
+1
+9.0
+20520126
+Trenh Duc Thien
+2003
+1
+7.2
+20520128
+Ho Quang Thenh
+2003
+1
+8.2
+20520130
+Tran Quang Van Thu
+2003
+1
+6.3
+20520131
+Nguyen Ngoc Hoai Thu
+2004
+1
+7.8
+20520133
+Nguyen Benh Khiem
+2002
+1
+5.8
+20520134
+Huynh The Kim Sinh
+2002
+1
+8.2
+20520136
+Le Ngoc Thuan
+2004
+1
+7.0
+20520138
+Huynh Tran Thu
+2002
+1
+6.1
+20520140
+Pham The Thanh Thuy
+2004
+1
+7.8
+20520142
+Nguyen Hong Thong
+2004
+1
+7.9
+20520143
+Nguyen Cao Truong
+2002
+1
+5.4
+20520144
+Pham Cong Thuong
+2003
+1
+5.3
+20520146
+Phan Khanh Thuan
+2003
+1
+9.2
+20520147
+Nguyen Denh Le Thuan
+2003
+1
+9.1
+20520149
+Nguyen Quoc Thenh
+2003
+1
+6.6
+20520151
+Le Nguyen Thuy An
+2004
+1
+5.2
+20520152
+Nguyen Ngoc Hop
+2003
+1
+5.2
+20520153
+Nguyen Vuo Lam Hoang
+2002
+1
+6.2
+20520155
+Nguyen Hoa Thuan
+2004
+1
+5.4
+20520157
+Pham Huynh Duc Huy
+2002
+1
+5.9
+20520158
+Huynh Tuan Anh
+2003
+1
+7.6
+20520160
+Ho Ngoc An
+2002
+1
+8.9
+20520161
+Tran The Thong
+2003
+1
+8.1
+20520162
+Pham Tuan Anh
+2002
+1
+7.0
+20520164
+Nguyen Khac Bao Anh
+2004
+0
+7.9
+20520165
+Nguyen Ngoc Lan Anh
+2002
+0
+8.8
+20520166
+Nguyen Thanh An
+2004
+1
+6.5
+20520167
+Vu Minh Thuc
+2002
+1
+9.5
+20520168
+Pham The Nhu Duyen
+2003
+1
+5.2
+20520170
+Nguyen Cong Chuc
+2002
+1
+7.3
+20520171
+Vo Nguyen Minh An
+2003
+0
+8.2
+20520173
+Le Thanh An
+2004
+1
+9.7
+20520174
+Pham Denh An
+2002
+1
+6.3
+20520175
+Huynh Tuan Anh
+2002
+1
+7.1
+20520176
+Nguyen Minh An
+2003
+1
+6.9
+20520178
+Nguyen Phuong Anh
+2004
+0
+9.3
+20520179
+Nguyen Huy Bao
+2004
+1
+7.9
+20520180
+Pham Hong Anh
+2003
+1
+5.9
+20520182
+Chau Viet Anh
+2003
+1
+8.7
+20520183
+Nguyen Le Phu An
+2004
+1
+5.2
+20520185
+Le Denh Bang
+2002
+1
+6.7
+20520186
+Tran Hoang Venh Bao
+2004
+1
+9.3
+20520187
+Pham Vo Hoai Anh
+2003
+1
+9.5
+20520189
+Ho Thanh Benh
+2002
+0
+8.0
+20520190
+Nguyen Thai Benh
+2002
+1
+5.0
+20520191
+Bui Thai Chanh
+2003
+1
+7.9
+20520193
+Do Denh Bien
+2002
+1
+7.8
+20520195
+Nguyen Phuoc Bien
+2002
+1
+7.7
+20520197
+Le Minh Chanh
+2002
+1
+8.8
+20520198
+Le Thai Benh
+2003
+1
+6.6
+20520199
+Nguyen Thai Benh
+2002
+1
+8.7
+20520200
+Dinh Hong Chau
+2004
+0
+5.3
+20520202
+Vo Khai Hoang Ca
+2004
+1
+8.9
+20520203
+Ha The Thuy Chi
+2004
+1
+7.8
+20520204
+Le Van Minh Chau
+2004
+0
+8.0
+20520205
+Nguyen Linh Chi
+2002
+0
+7.5
+20520207
+Le The Phuong Chi
+2004
+0
+6.8
+20520208
+Nguyen Duy Chinh
+2002
+1
+8.3
+20520209
+Nguyen The Chien
+2003
+1
+7.8
+20520210
+Tran Duc Thenh
+2004
+1
+8.9
+20520211
+Tran Vien Chinh
+2004
+1
+5.6
+20520213
+Bui Van Chuong
+2002
+1
+6.6
+20520215
+Vu The Lan Thi
+2003
+1
+5.1
+20520216
+Do Ngoc Kieu Chinh
+2002
+1
+5.1
+20520217
+Do Hoang Chuong
+2003
+1
+8.8
+20520219
+Ngo Che Cong
+2004
+1
+6.2
+20520220
+Nguyen Kim Cuong
+2002
+0
+8.4
+20520222
+Nguyen Van Cuc
+2004
+1
+8.9
+20520224
+Le Thanh Cong
+2002
+1
+9.0
+20520226
+Nguyen Kim Cuong
+2003
+0
+7.9
+20520227
+Le Thanh Cong
+2002
+1
+7.7
+20520229
+Nguyen Quoc Dai
+2003
+1
+9.2
+20520230
+Nguyen Phuoc Cuong
+2002
+1
+7.1
+20520231
+To Trong Danh
+2002
+1
+9.0
+20520232
+Nguyen Phu Cuong
+2004
+1
+5.4
+20520234
+Nguyen Quoc Cuong
+2004
+1
+7.1
+20520235
+Le Huy Bao Dat
+2002
+1
+6.4
+20520236
+Tran Huy Cuong
+2002
+1
+9.1
+20520238
+Mai Minh Dat
+2004
+1
+9.9
+20520239
+Nguyen Minh Dat
+2003
+1
+9.4
+20520240
+Tran Cong Danh
+2004
+1
+9.5
+20520241
+Huynh Cong Danh
+2002
+1
+9.8
+20520243
+Doan The Thanh Dung
+2003
+1
+6.0
+20520244
+Huynh Tran Doan
+2002
+1
+9.9
+20520245
+Do Quang Dat
+2003
+1
+8.1
+20520247
+Lam Huu Duc
+2002
+1
+5.8
+20520248
+Nguyen Manh Dien
+2003
+1
+9.3
+20520249
+Ho Anh Dat
+2003
+1
+7.0
+20520250
+Vu Tien Dat
+2002
+1
+7.7
+20520252
+Tran Van Dat
+2003
+1
+5.1
+20520253
+Huynh Minh Duc
+2004
+1
+5.1
+20520254
+Pham Quy Denh
+2003
+1
+8.1
+20520255
+Tran Quoc Cuong
+2003
+1
+7.7
+20520256
+Nguyen Truong Giang
+2003
+1
+6.5
+20520258
+Do Van Dung
+2003
+1
+5.5
+20520260
+Pham Khac Diep
+2002
+1
+8.9
+20520262
+Le Phuoc Phat Dat Duc
+2004
+1
+6.1
+20520263
+Nguyen Tien Dung
+2004
+1
+8.3
+20520264
+Pham Van Dat
+2003
+1
+8.4
+20520265
+Bui Tien Dung
+2004
+1
+9.8
+20520267
+Phan Dong
+2003
+1
+8.6
+20520269
+Nguyen Huu Hai
+2002
+1
+7.2
+20520271
+Dang Xuan Hanh
+2003
+0
+9.5
+20520273
+Ngo The Thuy Duong
+2004
+0
+6.2
+20520275
+Nguyen Tien Dung
+2004
+1
+7.7
+20520277
+Dao Ba Duong
+2003
+1
+8.6
+20520279
+Hoang Nam Hai
+2003
+1
+7.5
+20520281
+Nguyen Minh Hieu
+2002
+1
+6.7
+20520282
+Dao Manh Duong
+2002
+1
+6.8
+20520283
+Pham Van Han
+2002
+1
+9.5
+20520284
+Trenh The Hao
+2003
+1
+5.5
+20520285
+Nguyen Xuan Ham
+2003
+1
+8.7
+20520286
+Nguyen Canh Ha
+2003
+1
+9.6
+20520288
+Tran Ngoc Duc
+2004
+1
+7.0
+20520289
+Nguyen Hong Hai
+2004
+1
+8.6
+20520291
+Le Trong Hieu
+2004
+1
+6.1
+20520292
+Doan Huu Hanh
+2003
+1
+7.3
+20520293
+Tran Quoc Dung
+2002
+1
+8.4
+20520295
+Huynh Quoc Dung
+2002
+1
+9.2
+20520296
+Nguyen Van Hanh
+2004
+1
+6.3
+20520298
+Nguyen Xuan Duc
+2003
+1
+8.9
+20520300
+Nguyen Minh Hanh
+2004
+0
+7.8
+20520302
+Hoang Thai Ha
+2003
+0
+5.4
+20520304
+Tran Minh Hieu
+2002
+1
+7.7
+20520306
+Nguyen Hai Ha
+2003
+1
+6.0
+20520308
+Le Hoang Hoa
+2004
+1
+7.9
+20520309
+Nguyen Duc Hanh
+2002
+0
+7.5
+20520310
+Do Hong Hai
+2004
+1
+5.5
+20520312
+Tran Khai Dung
+2004
+1
+7.5
+20520313
+Nguyen Ngoc Hien
+2002
+1
+8.3
+20520315
+Nguyen Hoang Hieu
+2003
+1
+7.2
+20520316
+Le Vu Minh Hieu
+2004
+1
+6.5
+20520317
+Pham Hong Hai
+2002
+1
+6.0
+20520319
+Nguyen Hoang Hai
+2003
+1
+8.8
+20520320
+Vo Tien Hoa
+2002
+1
+5.7
+20520321
+Nguyen Duc Hien
+2002
+1
+8.4
+20520322
+Bach Thanh Hoan
+2004
+1
+6.2
+20520324
+Le Minh Hieu
+2002
+1
+9.6
+20520326
+Luu Nghea Hiep
+2004
+1
+6.5
+20520328
+Nguyen The Hoa
+2003
+1
+7.3
+20520329
+To Trung Hoa
+2004
+1
+8.0
+20520330
+Nguyen Thai Hoang
+2004
+1
+7.1
+20520332
+Nguyen Minh Hoang
+2004
+1
+7.0
+20520333
+Nguyen Thien Hoang
+2004
+1
+5.0
+20520334
+Vu Van Hieu
+2002
+1
+8.9
+20520336
+Nguyen Hoang
+2004
+1
+8.8
+20520338
+Truong Thanh Hoang
+2003
+1
+9.3
+20520339
+Vo Minh Hoang
+2002
+1
+9.1
+20520340
+Nguyen Ngoc Hoang
+2003
+1
+8.8
+20520342
+Le An Hoa
+2002
+1
+6.2
+20520343
+Nguyen Hoang Ho
+2002
+1
+8.4
+20520345
+Dang Tran Huan
+2003
+1
+9.7
+20520346
+Tran Duy Hoang
+2004
+1
+7.8
+20520348
+Pham Quang Hop
+2002
+1
+6.0
+20520350
+Nguyen Thanh Huy
+2002
+1
+7.1
+20520351
+Dinh Quoc Hoa
+2004
+1
+9.8
+20520352
+Nguyen Ke Hoach
+2004
+1
+6.9
+20520353
+Le Huy Tien Hoi
+2003
+1
+5.2
+20520355
+Bui Quoc Huy
+2003
+1
+8.9
+20520357
+Le Duc Phuoc Hue
+2002
+0
+7.3
+20520359
+Truong Denh Huy
+2002
+1
+9.0
+20520361
+Le Nhat Huy
+2002
+1
+7.5
+20520363
+Nguyen Xuan Huy
+2002
+1
+9.5
+20520365
+Nguyen Anh Huy
+2003
+1
+5.6
+20520366
+Truong Quoc Hung
+2003
+1
+6.6
+20520368
+Tao Quang Hung
+2004
+1
+8.2
+20520370
+Thai Bao Huy
+2003
+1
+6.2
+20520372
+Nguyen Quoc Huy
+2004
+1
+7.7
+20520373
+Le Denh Huy
+2003
+1
+7.9
+20520375
+Nguyen Minh Huy
+2003
+1
+7.9
+20520377
+Pham Minh Hung
+2004
+1
+8.7
+20520378
+Do Minh Huy
+2002
+1
+9.7
+20520379
+Nguyen Van Huy
+2004
+1
+9.8
+20520380
+Han Duc Hung
+2004
+1
+6.7
+20520382
+Nguyen Anh Hung
+2003
+1
+5.8
+20520384
+Vo Trung Hung
+2002
+1
+8.5
+20520385
+Nguyen Minh Kha
+2003
+1
+5.0
+20520387
+Tran The Thanh Huong
+2003
+0
+6.9
+20520388
+Do Huy Hung
+2003
+1
+7.8
+20520390
+Truong Le Hung
+2004
+1
+9.3
+20520391
+Tran Nguyen Khanh
+2003
+1
+6.3
+20520393
+Tran Tien Khiem
+2003
+1
+5.9
+20520394
+Truong Quang Khanh
+2003
+1
+5.7
+20520395
+Nguyen Quang Gia Khang
+2002
+1
+7.4
+20520396
+Tran Minh Khang
+2002
+1
+5.4
+20520397
+Tran Viet Hung
+2003
+1
+9.6
+20520399
+Ho Mang Khuong
+2004
+1
+8.4
+20520401
+Huynh Trong Khanh
+2002
+1
+6.4
+20520403
+Nguyen Tuan Kiet
+2004
+1
+5.0
+20520404
+Nguyen Dang Khoa
+2003
+1
+9.4
+20520406
+Nguyen Thanh Lam
+2002
+1
+5.8
+20520408
+Dao Kim Lap
+2004
+1
+6.9
+20520410
+Nguyen Anh Khoa
+2004
+1
+7.7
+20520412
+Tran Huynh Nam Lai
+2003
+1
+7.5
+20520413
+Nguyen Anh Linh
+2002
+1
+8.7
+20520415
+Tran Che Linh
+2004
+1
+6.0
+20520417
+Lam Anh Khoa
+2003
+1
+9.2
+20520418
+Truong The Thanh Kieu
+2003
+0
+9.1
+20520419
+Nguyen Hoang Long
+2002
+1
+9.1
+20520420
+Pham Thanh Loan
+2003
+0
+8.1
+20520422
+Nguyen Thanh Lam
+2003
+0
+6.5
+20520423
+Nguyen Duy Lin
+2004
+1
+5.7
+20520425
+Bui Duc Loi
+2004
+1
+8.8
+20520426
+Nguyen Duc Le
+2003
+1
+8.8
+20520427
+Le Minh Luan
+2002
+1
+5.2
+20520428
+Tran Duy Khuong
+2004
+1
+9.1
+20520429
+Cao Sy Le
+2003
+1
+8.7
+20520431
+Ha Huu Liem
+2003
+1
+8.6
+20520433
+Nguyen Huu Viet Long
+2002
+1
+7.0
+20520434
+Pham Hoai Loc
+2004
+1
+8.1
+20520435
+Hoang Linh
+2004
+1
+5.2
+20520436
+Duong Phi Long
+2004
+1
+5.0
+20520438
+Tran Van Long
+2004
+1
+9.2
+20520439
+Nguyen Ngoc Linh
+2004
+0
+7.1
+20520441
+Nguyen Xuan Luc
+2002
+1
+8.3
+20520443
+Do Tien Manh
+2004
+1
+5.3
+20520444
+Dang Tan Loc
+2003
+1
+7.7
+20520446
+Nguyen Phuoc Loc
+2003
+1
+7.2
+20520448
+Nguyen Nghiem Minh
+2002
+1
+5.0
+20520450
+Hoang Tran Quang Khai
+2002
+1
+9.4
+20520451
+Nguyen Thang Long
+2004
+1
+7.7
+20520453
+Nguyen Van Loc
+2003
+1
+6.1
+20520454
+Vu Kim Long
+2004
+1
+9.2
+20520456
+Nguyen Hoang Long
+2003
+1
+9.0
+20520458
+Nguyen Khoa Hai Long
+2004
+1
+9.0
+20520459
+Vo Tran Nhat Minh
+2004
+1
+6.6
+20520461
+Vu The Thanh Mai
+2002
+0
+8.6
+20520462
+Le Denh Man
+2004
+1
+5.1
+20520464
+Nguyen Khac Man
+2004
+1
+9.5
+20520466
+Tran Quang Anh Minh
+2003
+1
+8.6
+20520468
+Do Ha Loc
+2003
+1
+8.4
+20520470
+Tran Huu Loc
+2002
+1
+9.1
+20520472
+Nguyen Duc Long
+2004
+1
+6.9
+20520474
+Nguyen Hue Minh
+2003
+1
+6.1
+20520475
+Nguyen Van My
+2004
+1
+5.3
+20520476
+Nguyen Thanh Luan
+2003
+1
+9.2
+20520478
+Tran Quang Minh
+2003
+1
+9.8
+20520480
+Le Van Luu
+2003
+1
+7.3
+20520481
+Tran Cong Minh
+2002
+1
+9.0
+20520483
+Nguyen Hoang Minh
+2003
+1
+5.0
+20520484
+Tran Ho Phuong Nam
+2003
+1
+7.1
+20520485
+Ngo The Hong Ngan
+2003
+0
+6.4
+20520486
+Quang Tan Nghea
+2003
+1
+5.5
+20520488
+Le Khanh Nghi
+2002
+1
+5.0
+20520490
+Tran Thanh Nam
+2002
+1
+9.4
+20520491
+Dinh Van Nam
+2003
+1
+6.2
+20520492
+Vo Tan Phat
+2002
+1
+9.4
+20520494
+Vo Hoang Nam
+2002
+1
+5.3
+20520495
+Doan Trung Nghea
+2003
+1
+6.7
+20520496
+Tran Hung Nghiep
+2003
+1
+8.7
+20520497
+Le Hoai Nam
+2002
+1
+8.3
+20520498
+Hoang Phuong Nam
+2004
+1
+8.0
+20520500
+Tran Huu Nghe
+2004
+1
+6.8
+20520502
+Cao Phuong Nha
+2004
+1
+9.6
+20520503
+Nguyen Huynh Hai Nam
+2003
+1
+5.6
+20520504
+Huynh Thanh Nhut
+2003
+1
+6.4
+20520506
+Ho Trong Nghea
+2003
+1
+8.4
+20520508
+Tran The Kim Ngan
+2003
+0
+9.0
+20520510
+Nguyen Hong Phong
+2003
+1
+9.3
+20520511
+Pham Anh Vu Nguyen
+2004
+1
+8.3
+20520513
+Luong Che Nguyen
+2003
+1
+5.8
+20520515
+Tran Minh Ton Venh Phuc
+2002
+1
+7.2
+20520516
+Le Nhut Nam
+2002
+1
+5.5
+20520517
+Hua Dai Phong
+2003
+1
+5.4
+20520519
+Huynh Thanh Son
+2003
+1
+5.7
+20520520
+Tran Phan Minh Nghi
+2004
+1
+9.9
+20520522
+Le Vo Hoang Phi
+2003
+1
+9.2
+20520524
+Nguyen Huu Nhan
+2003
+1
+5.2
+20520526
+Nguyen Phuc Nguyen
+2004
+1
+7.5
+20520528
+Chu Hoang Nhat
+2003
+1
+9.3
+20520530
+Huynh Vinh Phat
+2004
+1
+5.9
+20520532
+Duong Tan Nhu
+2004
+1
+5.6
+20520533
+Trenh Lam Trinh Nhut
+2003
+1
+8.8
+20520534
+Truong Denh Nghea
+2003
+1
+7.6
+20520535
+Ha Van Phuoc
+2003
+1
+7.2
+20520537
+Nguyen Thanh Phong
+2004
+1
+9.5
+20520539
+Tran Thanh Phi
+2004
+1
+9.0
+20520541
+Nguyen Xuan Phu
+2004
+1
+8.7
+20520543
+Vo Nhan Phong
+2003
+1
+8.5
+20520544
+Tran The Thu Nhan
+2004
+1
+7.8
+20520546
+Do Duy Phuc
+2004
+1
+8.6
+20520547
+Nguyen Van Nhan
+2003
+1
+6.8
+20520548
+Ho Huu Phuc
+2004
+1
+7.5
+20520550
+Doan Denh Phuc
+2004
+1
+7.7
+20520552
+Nguyen Tre Phuc
+2002
+1
+7.8
+20520553
+Lam Venh Phuc
+2002
+1
+5.7
+20520554
+Ngo Quoc Phong
+2004
+1
+9.2
+20520555
+Ha The Minh Phuong
+2002
+0
+6.7
+20520556
+Tran Thanh Phong
+2004
+1
+5.8
+20520557
+Nguyen Dong Phuong
+2004
+1
+7.4
+20520559
+Hoang Bao Phu
+2002
+1
+6.0
+20520560
+Pham Hoai Phuoc
+2003
+1
+6.5
+20520562
+Nguyen Trieu Quoc
+2002
+1
+6.3
+20520564
+Tran Minh Son
+2003
+1
+8.2
+20520565
+Nguyen Ngoc Phuc
+2002
+1
+5.0
+20520566
+On Ha Chung Phuoc
+2002
+1
+9.0
+20520567
+Nguyen Thanh Phuong
+2004
+1
+5.9
+20520569
+Nguyen Phuong Quang
+2004
+1
+6.2
+20520571
+Le Tu Thach Sinh
+2003
+1
+7.6
+20520572
+Le Quang Phuong
+2002
+1
+7.7
+20520573
+Vu Bao Quoc
+2003
+1
+9.2
+20520574
+Truong Viet Son
+2002
+1
+7.1
+20520575
+Dau Nhat Quang
+2004
+1
+9.6
+20520577
+Cao The Huyen Sa
+2003
+1
+5.1
+20520579
+Tran Van Quy
+2004
+1
+6.2
+20520581
+Nguyen Tung Son
+2004
+1
+9.4
+20520582
+Nguyen Thanh Tam
+2002
+0
+5.4
+20520584
+Dinh Diep Duy
+2004
+1
+5.3
+20520586
+Nguyen Thanh Son
+2004
+1
+5.2
+20520588
+Vo Huy Tam
+2003
+1
+5.0
+20520590
+Vo Minh Duy
+2004
+1
+6.4
+20520592
+Nguyen Le Truc Giang
+2004
+1
+9.0
+20520593
+Ngo Nguyen Duy
+2003
+1
+5.9
+20520595
+Vo Truong Giang
+2003
+1
+9.6
+20520596
+Nguyen Tran Duyet
+2002
+1
+6.1
+20520598
+Nguyen The Vu Ha
+2004
+1
+8.9
+20520599
+Phan Denh Duy
+2002
+1
+9.5
+20520600
+Nguyen Ngoc Ha
+2004
+0
+8.9
+20520602
+Hoang Truong Giang
+2003
+1
+5.1
+20520604
+Nguyen Thu Giang
+2002
+0
+9.9
+20520605
+Hang Kim Duyen
+2004
+0
+6.6
+20520606
+Nguyen Van Giang
+2002
+1
+9.1
+20520608
+Vo Dinh Duy
+2004
+1
+9.8
+20520610
+Nguyen Khuong Hai
+2003
+1
+5.7
+20520611
+Doan Khuong Duy
+2004
+1
+9.0
+20520612
+Pham Ngoc Duy
+2004
+1
+8.8
+20520614
+Pham Minh Hai
+2004
+1
+8.0
+20520615
+Dang Ngoc Hanh
+2004
+0
+6.1
+20520616
+Vo Nguyen Dang Hai
+2003
+1
+6.2
+20520617
+Le Dang Hai
+2004
+1
+7.1
+20520619
+Huynh Trung Hieu
+2002
+1
+5.6
+20520621
+Doan The Hieu
+2003
+1
+6.6
+20520623
+Do The Ngoc Hien
+2002
+0
+9.0
+20520624
+Nguyen Viet Ha
+2002
+0
+6.1
+20520625
+Nguyen Hoang Hiep
+2003
+1
+6.2
+20520626
+Phan Viet Ha
+2004
+0
+5.4
+20520628
+Nguyen Hoang Hien
+2002
+1
+9.7
+20520630
+Bui Minh Hieu
+2003
+1
+6.4
+20520632
+Nguyen Trung Hi
+2002
+1
+8.4
+20520633
+Nguyen Huy Khanh Hoa
+2002
+1
+9.3
+20520635
+Tran Nguyen Hao
+2003
+1
+9.8
+20520636
+Dang Le Hoai
+2002
+1
+5.8
+20520638
+Nguyen Duong Hao
+2004
+1
+7.6
+20520640
+Phan Van Hau
+2002
+1
+9.3
+20520642
+Le Hoang Hoa
+2004
+1
+7.6
+20520643
+Chau Kim Hung
+2002
+1
+5.3
+20520644
+Dao Minh Hau
+2002
+1
+5.2
+20520645
+Nguyen Van Hien
+2002
+1
+6.3
+20520646
+Le Minh Hieu
+2002
+1
+9.8
+20520648
+Hong Viet Hai
+2003
+1
+9.3
+20520650
+Nguyen Minh Hai
+2002
+1
+9.2
+20520651
+Nghiem Xuan Hiep
+2003
+1
+5.2
+20520653
+Dang Trung Hien
+2002
+1
+7.0
+20520655
+Tran Trung Hieu
+2002
+1
+7.2
+20520656
+Duong The Kim Hoang
+2004
+1
+8.8
+20520658
+Le Minh Hai
+2003
+1
+5.5
+20520659
+Nguyen Thai Hoang
+2004
+1
+7.3
+20520660
+Nguyen Van Hieu
+2002
+1
+6.9
+20520662
+Nguyen Thanh Hoang
+2003
+1
+8.7
+20520663
+Trenh Minh Hieu
+2003
+1
+6.4
+20520664
+Nguyen Duc Hieu
+2002
+1
+6.1
+20520666
+Phan Vu Tien Hoa
+2002
+1
+7.7
+20520668
+Nguyen Tuan Hoang
+2002
+1
+5.0
+20520669
+Nguyen Huu Hoang
+2003
+1
+7.1
+20520671
+Phan Xuan Hung
+2002
+1
+5.5
+20520673
+Phan Hoai
+2004
+1
+9.2
+20520675
+Bui Quang Hieu
+2003
+1
+6.9
+20520676
+Ngeou Sieu Hung
+2004
+1
+8.0
+20520678
+Nguyen Huu Huu
+2004
+1
+6.1
+20520680
+Nguyen Minh Hung
+2002
+1
+8.9
+20520681
+Cao Van Hung
+2004
+1
+9.9
+20520683
+Nguyen Thuan Hung
+2002
+1
+5.2
+20520684
+Lieu Duc Hung
+2003
+1
+7.0
+20520686
+Huynh Van Huy
+2002
+1
+5.6
+20520687
+Trenh Gia Hung
+2002
+1
+9.6
+20520689
+Tran The Huong
+2004
+1
+5.6
+20520690
+Nguyen Denh Huy
+2004
+1
+6.1
+20520692
+Tong Hai Hung
+2003
+1
+8.1
+20520694
+Ngo Dao Huy
+2004
+1
+6.1
+20520696
+Pham Truong Quang Huy
+2002
+1
+9.9
+20520698
+Huynh Kim Hung
+2002
+1
+7.9
+20520699
+Vu Ngoc Hung
+2003
+1
+9.2
+20520701
+Nguyen Thanh Huy
+2003
+1
+9.6
+20520702
+Le Quang Huy
+2002
+1
+5.2
+20520703
+Cao Van Huynh
+2003
+1
+7.0
+20520704
+Truong Quang Huy
+2003
+1
+7.7
+20520705
+Nguyen Tuan Huy
+2004
+1
+6.6
+20520706
+Nguyen Vu Huy
+2004
+1
+5.7
+20520707
+Nguyen Tuan Khai
+2003
+1
+9.3
+20520709
+Nguyen Venh Kha
+2004
+1
+8.4
+20520710
+Dinh Nam Kha
+2003
+1
+9.6
+20520711
+Dao Ngoc Khai
+2004
+1
+6.5
+20520713
+Pham The Thanh Huyen
+2003
+0
+9.9
+20520715
+Ha Minh Khanh
+2002
+1
+7.0
+20520716
+Vu Duy Khanh
+2003
+1
+7.7
+20520718
+Huynh Thien Kiem
+2004
+1
+5.9
+20520720
+Cao Dang Khoa
+2002
+1
+5.0
+20520722
+Tran Long Khanh
+2004
+1
+7.0
+20520723
+Nguyen Hong Khanh
+2004
+1
+6.2
+20520724
+Le Nguyen Khoa
+2004
+1
+8.6
+20520725
+Ngo Tu Dang Khoa
+2003
+1
+8.8
+20520727
+Nguyen Nguyen Khoi
+2003
+1
+6.8
+20520728
+Nguyen Viet Khoa
+2004
+1
+8.1
+20520729
+Luu Thai Dang Khoa
+2003
+1
+9.7
+20520731
+Le Tan Khoa
+2004
+1
+8.8
+20520733
+Tran Tien Khoa
+2003
+1
+7.7
+20520735
+Phan Thanh Khuyen
+2002
+1
+9.4
+20520736
+Phan Trung Kien
+2002
+1
+6.0
+20520737
+Luu Che Kien
+2002
+1
+8.6
+20520738
+Le Que Ky
+2002
+1
+5.0
+20520740
+Nguyen Kim
+2003
+1
+8.3
+20520742
+Luu Hoang Kien
+2004
+1
+6.5
+20520744
+Bui Thanh Kim
+2004
+1
+9.4
+20520745
+Phan Denh Lam
+2004
+1
+6.6
+20520747
+Nguyen Denh Kin
+2004
+1
+9.0

@@ -1,0 +1,209 @@
+KHONG TIM THAY
+[20520092,  Nguyen Che Thanh  , 1, 2002, 5.1]
+[20520093,  Phan Xuan Thang  , 1, 2002, 7]
+[20520095,  Bui Minh Thao  , 0, 2002, 9.6]
+[20520096,  Dang Van Thang  , 1, 2004, 8]
+KHONG TIM THAY
+[20520099,  Dinh Xuan Thang  , 1, 2004, 7.4]
+[20520101,  Lam Van Thanh  , 1, 2002, 5.7]
+[20520103,  Nguyen Tien Thanh  , 1, 2004, 8.8]
+[20520104,  Dam Van Thien  , 1, 2004, 8.7]
+KHONG TIM THAY
+[20520107,  Vo Duc Thao  , 1, 2003, 9]
+[20520108,  Bui Trung Thanh  , 1, 2002, 7.1]
+[20520110,  Le Tan Thanh  , 1, 2003, 9.3]
+[20520112,  Le Tien Thanh  , 1, 2002, 7]
+KHONG TIM THAY
+[20520115,  Nguyen Cong Thanh  , 1, 2002, 8.5]
+[20520117,  Luong Van Thao  , 1, 2002, 5.9]
+[20520119,  Cao Ba Thanh  , 1, 2003, 6.8]
+[20520120,  Nguyen Huu The  , 1, 2003, 9.7]
+KHONG TIM THAY
+[20520123,  Nguyen Van Thenh  , 1, 2004, 7.6]
+[20520125,  Nguyen Duc Thong  , 1, 2002, 9.5]
+[20520127,  Nguyen Le Truong Tho  , 1, 2004, 5.3]
+[20520129,  Tran Minh Thong  , 1, 2004, 6]
+KHONG TIM THAY
+[20520133,  Trenh Duc Thien  , 1, 2003, 6.5]
+[20520135,  Ho Quang Thenh  , 1, 2003, 5.7]
+[20520137,  Tran Quang Van Thu  , 1, 2002, 8.8]
+[20520139,  Nguyen Ngoc Hoai Thu  , 1, 2002, 6.9]
+KHONG TIM THAY
+[20520142,  Huynh The Kim Sinh  , 1, 2004, 5.1]
+[20520143,  Le Ngoc Thuan  , 1, 2002, 8.9]
+[20520144,  Huynh Tran Thu  , 1, 2002, 6.4]
+[20520146,  Pham The Thanh Thuy  , 1, 2002, 5.9]
+KHONG TIM THAY
+[20520150,  Nguyen Cao Truong  , 1, 2002, 7.5]
+[20520152,  Pham Cong Thuong  , 1, 2002, 9.8]
+[20520154,  Phan Khanh Thuan  , 1, 2002, 7.9]
+[20520156,  Nguyen Denh Le Thuan  , 1, 2003, 7.5]
+KHONG TIM THAY
+[20520158,  Le Nguyen Thuy An  , 1, 2003, 9.9]
+[20520159,  Nguyen Ngoc Hop  , 1, 2004, 7.2]
+[20520160,  Nguyen Vuo Lam Hoang  , 1, 2003, 8.8]
+[20520162,  Nguyen Hoa Thuan  , 1, 2003, 9.9]
+KHONG TIM THAY
+[20520165,  Huynh Tuan Anh  , 1, 2003, 7.6]
+[20520167,  Ho Ngoc An  , 1, 2002, 5.6]
+[20520168,  Tran The Thong  , 1, 2003, 8.3]
+[20520170,  Pham Tuan Anh  , 1, 2004, 7.3]
+KHONG TIM THAY
+[20520172,  Nguyen Ngoc Lan Anh  , 0, 2003, 6.1]
+[20520174,  Nguyen Thanh An  , 1, 2002, 7.8]
+[20520176,  Vu Minh Thuc  , 1, 2002, 9.3]
+[20520177,  Pham The Nhu Duyen  , 1, 2002, 8.9]
+KHONG TIM THAY
+[20520179,  Vo Nguyen Minh An  , 0, 2004, 7.8]
+[20520180,  Le Thanh An  , 1, 2003, 6]
+[20520182,  Pham Denh An  , 1, 2003, 9.4]
+[20520183,  Huynh Tuan Anh  , 1, 2004, 7.9]
+KHONG TIM THAY
+[20520187,  Nguyen Phuong Anh  , 0, 2004, 7.6]
+[20520188,  Nguyen Huy Bao  , 1, 2004, 8.9]
+[20520189,  Pham Hong Anh  , 1, 2002, 9.3]
+[20520190,  Chau Viet Anh  , 1, 2004, 6.6]
+KHONG TIM THAY
+[20520193,  Le Denh Bang  , 1, 2004, 7.3]
+[20520195,  Tran Hoang Venh Bao  , 1, 2002, 6.7]
+[20520197,  Pham Vo Hoai Anh  , 1, 2003, 6.6]
+[20520199,  Ho Thanh Benh  , 0, 2003, 5.6]
+KHONG TIM THAY
+[20520202,  Bui Thai Chanh  , 1, 2003, 6.7]
+[20520203,  Do Denh Bien  , 1, 2003, 8.4]
+[20520205,  Nguyen Phuoc Bien  , 1, 2003, 5.7]
+[20520206,  Le Minh Chanh  , 1, 2004, 8.9]
+KHONG TIM THAY
+[20520209,  Nguyen Thai Benh  , 1, 2003, 6.5]
+[20520211,  Dinh Hong Chau  , 0, 2002, 8.2]
+[20520213,  Vo Khai Hoang Ca  , 1, 2002, 8.2]
+[20520215,  Ha The Thuy Chi  , 1, 2003, 9.6]
+KHONG TIM THAY
+[20520218,  Nguyen Linh Chi  , 0, 2004, 6.1]
+[20520219,  Le The Phuong Chi  , 0, 2002, 8.9]
+[20520220,  Nguyen Duy Chinh  , 1, 2002, 8.5]
+[20520222,  Nguyen The Chien  , 1, 2004, 6.7]
+KHONG TIM THAY
+[20520225,  Tran Vien Chinh  , 1, 2002, 5.2]
+[20520226,  Bui Van Chuong  , 1, 2003, 6.8]
+[20520228,  Vu The Lan Thi  , 1, 2003, 5.6]
+[20520229,  Do Ngoc Kieu Chinh  , 1, 2004, 5.4]
+KHONG TIM THAY
+[20520231,  Ngo Che Cong  , 1, 2003, 6.6]
+[20520233,  Nguyen Kim Cuong  , 0, 2003, 7.7]
+[20520235,  Nguyen Van Cuc  , 1, 2004, 6.9]
+[20520236,  Le Thanh Cong  , 1, 2002, 6.6]
+KHONG TIM THAY
+[20520239,  Le Thanh Cong  , 1, 2002, 6.9]
+[20520241,  Nguyen Quoc Dai  , 1, 2003, 6.6]
+[20520243,  Nguyen Phuoc Cuong  , 1, 2002, 7.6]
+[20520245,  To Trong Danh  , 1, 2003, 7.1]
+KHONG TIM THAY
+[20520247,  Nguyen Quoc Cuong  , 1, 2003, 6.1]
+[20520249,  Le Huy Bao Dat  , 1, 2004, 5.2]
+[20520251,  Tran Huy Cuong  , 1, 2004, 5.4]
+[20520252,  Mai Minh Dat  , 1, 2002, 6.2]
+KHONG TIM THAY
+[20520254,  Tran Cong Danh  , 1, 2004, 7.2]
+[20520255,  Huynh Cong Danh  , 1, 2004, 7.3]
+[20520256,  Doan The Thanh Dung  , 1, 2002, 6.4]
+[20520258,  Huynh Tran Doan  , 1, 2002, 5.5]
+KHONG TIM THAY
+[20520261,  Lam Huu Duc  , 1, 2003, 7.4]
+[20520262,  Nguyen Manh Dien  , 1, 2004, 8.7]
+[20520264,  Ho Anh Dat  , 1, 2002, 7.3]
+[20520265,  Vu Tien Dat  , 1, 2003, 7.2]
+KHONG TIM THAY
+[20520268,  Huynh Minh Duc  , 1, 2002, 6]
+[20520270,  Pham Quy Denh  , 1, 2003, 8.2]
+[20520272,  Tran Quoc Cuong  , 1, 2003, 5.6]
+[20520274,  Nguyen Truong Giang  , 1, 2002, 9.9]
+KHONG TIM THAY
+[20520276,  Pham Khac Diep  , 1, 2002, 8.5]
+[20520277,  Le Phuoc Phat Dat Duc  , 1, 2002, 9.1]
+[20520279,  Nguyen Tien Dung  , 1, 2003, 8.4]
+[20520281,  Pham Van Dat  , 1, 2004, 9.2]
+KHONG TIM THAY
+[20520285,  Phan Dong  , 1, 2003, 9.4]
+[20520286,  Nguyen Huu Hai  , 1, 2004, 6.3]
+[20520287,  Dang Xuan Hanh  , 0, 2004, 8.4]
+[20520288,  Ngo The Thuy Duong  , 0, 2004, 6.5]
+KHONG TIM THAY
+[20520292,  Dao Ba Duong  , 1, 2004, 6.2]
+[20520294,  Hoang Nam Hai  , 1, 2003, 5]
+[20520296,  Nguyen Minh Hieu  , 1, 2004, 8.5]
+[20520297,  Dao Manh Duong  , 1, 2004, 5]
+KHONG TIM THAY
+[20520301,  Trenh The Hao  , 1, 2002, 8.9]
+[20520302,  Nguyen Xuan Ham  , 1, 2004, 5.4]
+[20520303,  Nguyen Canh Ha  , 1, 2002, 7.5]
+[20520304,  Tran Ngoc Duc  , 1, 2002, 5.5]
+KHONG TIM THAY
+[20520308,  Le Trong Hieu  , 1, 2003, 7.5]
+[20520309,  Doan Huu Hanh  , 1, 2003, 6.1]
+[20520310,  Tran Quoc Dung  , 1, 2002, 9.6]
+[20520311,  Huynh Quoc Dung  , 1, 2003, 6.1]
+KHONG TIM THAY
+[20520313,  Nguyen Van Hanh  , 1, 2002, 9.8]
+[20520314,  Nguyen Xuan Duc  , 1, 2004, 8.3]
+[20520316,  Nguyen Minh Hanh  , 0, 2004, 8.8]
+[20520317,  Hoang Thai Ha  , 0, 2004, 5.2]
+KHONG TIM THAY
+[20520319,  Nguyen Hai Ha  , 1, 2002, 5]
+[20520320,  Le Hoang Hoa  , 1, 2003, 8.8]
+[20520321,  Nguyen Duc Hanh  , 0, 2004, 7.1]
+[20520322,  Do Hong Hai  , 1, 2004, 8.1]
+KHONG TIM THAY
+[20520013,  Nguyen Ngoc Son  , 1, 2002, 6.8]
+[20520325,  Nguyen Ngoc Hien  , 1, 2002, 9.1]
+[20520015,  Bui Duy Quy  , 1, 2002, 6.1]
+[20520327,  Nguyen Hoang Hieu  , 1, 2003, 7.5]
+KHONG TIM THAY
+[20520018,  Tran Minh Phuong  , 0, 2002, 7.3]
+[20520020,  Phan Duy Quoc  , 1, 2003, 9.7]
+[20520021,  Nguyen Vu Ngoc Quyen  , 0, 2004, 5.4]
+[20520023,  Truong Trong Quan  , 1, 2002, 8.1]
+KHONG TIM THAY
+[20520027,  Vo Thanh Sanh  , 1, 2003, 9.5]
+[20520029,  Nguyen Minh Phuong  , 0, 2002, 9.6]
+[20520031,  Nguyen Viet Son  , 1, 2004, 6.7]
+[20520032,  Vu Hoang Hai Son  , 1, 2004, 6.5]
+KHONG TIM THAY
+[20520035,  Nguyen Vu Truong Son  , 1, 2002, 6.8]
+[20520037,  Tran Minh Sang  , 1, 2003, 7.7]
+[20520038,  Nguyen Trung Son  , 1, 2003, 9.3]
+[20520039,  Le Quang  , 1, 2004, 8.2]
+KHONG TIM THAY
+[20520042,  Nguyen Van Son  , 1, 2002, 8.5]
+[20520044,  Le Anh Son  , 1, 2003, 6.7]
+[20520045,  Vo Tien Se  , 1, 2003, 9]
+[20520047,  Phan Duc Son  , 1, 2003, 9.3]
+KHONG TIM THAY
+[20520050,  Vu Hong Tam  , 0, 2002, 8.5]
+[20520051,  Nguyen Minh Tan  , 1, 2002, 7.6]
+[20520053,  Le Ha Xuan Thai  , 1, 2003, 7.8]
+[20520055,  Nguyen Ngoc Phuong  , 1, 2004, 9.8]
+KHONG TIM THAY
+[20520057,  Duong Che Tam  , 1, 2004, 8.6]
+[20520058,  Pham Thanh Quoc  , 1, 2003, 5.5]
+[20520059,  Le Truong Sa  , 1, 2004, 5.7]
+[20520060,  Luu Nguyen Quoc Son  , 1, 2003, 9.3]
+KHONG TIM THAY
+[20520062,  Le Cong Tai  , 1, 2003, 6.5]
+[20520063,  Do Minh Tam  , 0, 2003, 9.3]
+[20520065,  Tran The Minh Suong  , 1, 2003, 6.6]
+[20520067,  Tran Van Tai  , 1, 2002, 7.2]
+KHONG TIM THAY
+[20520069,  Vu The Hoai Son  , 1, 2002, 8.2]
+[20520071,  Duong Thanh Tam  , 0, 2002, 9.5]
+[20520073,  Ho Quoc Tai  , 1, 2004, 5.5]
+[20520075,  Huynh Le Tan Tai  , 1, 2004, 9.9]
+KHONG TIM THAY
+[20520079,  Nguyen Anh Tan  , 1, 2004, 6.5]
+[20520081,  Nguyen Ngoc Than  , 1, 2002, 7.5]
+[20520083,  Doan Thanh Tan  , 1, 2004, 9.8]
+[20520084,  Vu Minh Thai  , 1, 2002, 9.8]
+KHONG TIM THAY
+[20520086,  Vu Van Thanh  , 1, 2004, 8.6]
+[20520087,  Le Duy Thang  , 1, 2003, 7.2]
+[20520089,  Ho Nguyen Xuan Thanh  , 0, 2004, 8.4]

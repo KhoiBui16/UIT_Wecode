@@ -1,0 +1,164 @@
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 1
+THAM DO 0
+THAM DO 0
+THAM DO 2
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520081,  Vu Minh Thai  , 1, 2003, 9.6]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520095,  Diep Vuong Thang  , 1, 2002, 7.8]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520008,  Nguyen Xuan Sang  , 1, 2002, 6.9]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520023,  Truong Trong Quan  , 1, 2003, 5.3]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[20520037,  Le Quang  , 1, 2004, 9.1]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[20520053,  Nguyen Ngoc Phuong  , 1, 2004, 8.9]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520067,  Tran Van Tai  , 1, 2003, 6.8]
+[-1,    , , , ]

@@ -1,0 +1,507 @@
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 2
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 2
+THAM DO 0
+THAM DO 2
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 3
+THAM DO 0
+THAM DO 0
+THAM DO 3
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 4
+THAM DO 0
+THAM DO 4
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 5
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 6
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520103,  Nguyen Tien Thanh  , 1, 2004, 8.8]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520119,  Cao Ba Thanh  , 1, 2003, 6.8]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520137,  Tran Quang Van Thu  , 1, 2002, 8.8]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520154,  Phan Khanh Thuan  , 1, 2002, 7.9]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[20520168,  Tran The Thong  , 1, 2003, 8.3]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520182,  Pham Denh An  , 1, 2003, 9.4]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520197,  Pham Vo Hoai Anh  , 1, 2003, 6.6]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520213,  Vo Khai Hoang Ca  , 1, 2002, 8.2]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520228,  Vu The Lan Thi  , 1, 2003, 5.6]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520243,  Nguyen Phuoc Cuong  , 1, 2002, 7.6]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520256,  Doan The Thanh Dung  , 1, 2002, 6.4]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520272,  Tran Quoc Cuong  , 1, 2003, 5.6]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520287,  Dang Xuan Hanh  , 0, 2004, 8.4]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520303,  Nguyen Canh Ha  , 1, 2002, 7.5]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520314,  Nguyen Xuan Duc  , 1, 2004, 8.3]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520316,  Nguyen Minh Hanh  , 0, 2004, 8.8]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[20520328,  Le Vu Minh Hieu  , 1, 2004, 9.6]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520322,  Do Hong Hai  , 1, 2004, 8.1]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520050,  Vu Hong Tam  , 0, 2002, 8.5]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520061,  Ngo Vu Sang  , 1, 2002, 7]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520077,  Huynh Huu Tam  , 1, 2003, 7.5]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]

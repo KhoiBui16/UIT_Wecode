@@ -1,0 +1,158 @@
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+KHONG XOA DUOC
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+THAM DO 0
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520070,  Ho Quoc Tai  , 1, 2002, 6.5]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520084,  Ho Nguyen Xuan Thanh  , 0, 2002, 5.4]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520003,  Le Hoang Quan  , 1, 2004, 9.1]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[20520015,  Tran Minh Phuong  , 0, 2003, 5.6]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[20520032,  Nguyen Vu Truong Son  , 1, 2004, 5.8]
+[0,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[20520046,  Vu Hong Tam  , 0, 2004, 5.3]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]
+[-1,    , , , ]
+[0,    , , , ]
+[-1,    , , , ]

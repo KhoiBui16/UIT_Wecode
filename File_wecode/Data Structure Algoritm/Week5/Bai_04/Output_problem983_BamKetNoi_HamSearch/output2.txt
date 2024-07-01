@@ -1,0 +1,67 @@
+KHONG TIM THAY
+[20520061,  Le Cong Tai  , 1, 2003, 8]
+[20520062,  Do Minh Tam  , 0, 2004, 5.5]
+[20520064,  Tran The Minh Suong  , 1, 2003, 9.6]
+[20520066,  Tran Van Tai  , 1, 2002, 7.9]
+KHONG TIM THAY
+[20520068,  Vu The Hoai Son  , 1, 2002, 8.8]
+[20520069,  Duong Thanh Tam  , 0, 2002, 5.9]
+[20520070,  Ho Quoc Tai  , 1, 2002, 6.5]
+[20520071,  Huynh Le Tan Tai  , 1, 2002, 7.4]
+KHONG TIM THAY
+[20520074,  Nguyen Anh Tan  , 1, 2004, 7]
+[20520075,  Nguyen Ngoc Than  , 1, 2003, 6]
+[20520076,  Doan Thanh Tan  , 1, 2002, 9.2]
+[20520078,  Vu Minh Thai  , 1, 2003, 6.3]
+KHONG TIM THAY
+[20520081,  Vu Van Thanh  , 1, 2004, 5]
+[20520082,  Le Duy Thang  , 1, 2003, 9.8]
+[20520084,  Ho Nguyen Xuan Thanh  , 0, 2002, 5.4]
+[20520086,  Tran Tat Thang  , 1, 2004, 9.5]
+KHONG TIM THAY
+[20520088,  Phan Xuan Thang  , 1, 2003, 8.4]
+[20520089,  Bui Minh Thao  , 0, 2004, 9.7]
+[20520091,  Dang Van Thang  , 1, 2004, 5]
+[20520092,  Diep Vuong Thang  , 1, 2004, 6]
+KHONG TIM THAY
+[20520096,  Lam Van Thanh  , 1, 2003, 8.4]
+[20520001,  Nguyen The Nhu Quynh  , 0, 2003, 5.3]
+[20520003,  Le Hoang Quan  , 1, 2004, 9.1]
+[20520004,  Dinh Van Phuong  , 1, 2003, 6.9]
+KHONG TIM THAY
+[20520007,  Nguyen Xuan Sang  , 1, 2004, 5.1]
+[20520009,  Le Phu Quy  , 1, 2002, 5]
+[20520010,  Ly Quoc Quyen  , 1, 2002, 7.7]
+[20520011,  Bui Minh Quan  , 1, 2002, 8.8]
+KHONG TIM THAY
+[20520013,  Bui Duy Quy  , 1, 2004, 8.7]
+[20520014,  Vo Hoang Phuong  , 1, 2003, 9]
+[20520015,  Tran Minh Phuong  , 0, 2003, 5.6]
+[20520017,  Phan Duy Quoc  , 1, 2003, 9.9]
+KHONG TIM THAY
+[20520021,  Truong Trong Quan  , 1, 2004, 6.4]
+[20520023,  Pham Minh Quan  , 1, 2003, 7.1]
+[20520024,  Vo Thanh Sanh  , 1, 2002, 7.9]
+[20520025,  Nguyen Minh Phuong  , 0, 2004, 5.5]
+KHONG TIM THAY
+[20520028,  Vu Hoang Hai Son  , 1, 2002, 7.1]
+[20520030,  Nguyen Hai Son  , 1, 2003, 6]
+[20520032,  Nguyen Vu Truong Son  , 1, 2004, 5.8]
+[20520034,  Tran Minh Sang  , 1, 2003, 6.5]
+KHONG TIM THAY
+[20520037,  Le Quang  , 1, 2004, 8.1]
+[20520039,  Vu The Phuong  , 1, 2003, 6.1]
+[20520040,  Nguyen Van Son  , 1, 2004, 7.4]
+[20520041,  Le Anh Son  , 1, 2002, 9.2]
+KHONG TIM THAY
+[20520043,  Phan Duc Son  , 1, 2003, 9]
+[20520045,  Tran The Son  , 1, 2002, 7.2]
+[20520046,  Vu Hong Tam  , 0, 2004, 5.3]
+[20520047,  Nguyen Minh Tan  , 1, 2003, 6.4]
+KHONG TIM THAY
+[20520050,  Nguyen Ngoc Phuong  , 1, 2004, 6.2]
+[20520052,  Bui Anh Tai  , 1, 2003, 9.8]
+[20520053,  Duong Che Tam  , 1, 2003, 5.5]
+[20520055,  Pham Thanh Quoc  , 1, 2003, 9.7]
+KHONG TIM THAY
+[20520058,  Luu Nguyen Quoc Son  , 1, 2003, 5]

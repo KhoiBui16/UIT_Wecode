@@ -1,0 +1,111 @@
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+KHONG XOA DUOC
+[20520059,  Ngo Vu Sang  , 1, 2003, 8.6] 
+
+
+
+
+
+
+
+[20520067,  Le Van Tai  , 1, 2004, 5.8] 
+
+
+
+
+
+[20520073,  Huynh Huu Tam  , 1, 2002, 9.5] 
+
+
+
+
+
+
+[20520080,  Dang Xuan Thanh  , 0, 2002, 9.1] 
+
+
+
+
+
+
+[20520087,  Nguyen Che Thanh  , 1, 2004, 6.4] 
+
+
+
+
+
+
+[20520094,  Dinh Xuan Thang  , 1, 2003, 5.9] 
+
+
+
+
+
+
+
+
+[20520006,  Nguyen Echam Samuel  , 1, 2004, 8.6] 
+
+
+
+
+
+[20520012,  Nguyen Ngoc Son  , 1, 2003, 5.2] 
+
+
+
+
+
+
+[20520019,  Nguyen Vu Ngoc Quyen  , 0, 2002, 9.6] 
+
+
+
+
+
+
+[20520026,  Nguyen Viet Son  , 1, 2002, 8.7] 
+
+
+
+
+
+
+
+
+
+[20520036,  Nguyen Trung Son  , 1, 2004, 5.3] 
+
+
+
+
+
+[20520042,  Vo Tien Se  , 1, 2002, 9] 
+
+
+
+
+
+
+[20520049,  Le Ha Xuan Thai  , 1, 2003, 7.2] 
+
+
+
+
+
+
+[20520056,  Le Truong Sa  , 1, 2002, 9.5] 
+
+
